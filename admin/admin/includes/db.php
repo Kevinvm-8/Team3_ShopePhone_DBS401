@@ -2,8 +2,8 @@
 
 $servername = "localhost";
 $username = "root";
-$password = "";
-$db = "Apricot_Store";
+$password = "tung123";
+$db = "sqlteam";
 
 
 // Create connection

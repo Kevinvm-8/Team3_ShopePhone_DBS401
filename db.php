@@ -2,8 +2,8 @@
 
 $servername = "localhost";
 $username = "root";
-$password = "";
-$db = "apricot-store";
+$password = "tung123";
+$db = "sqlteam";
 
 // Create connection
 $con = mysqli_connect($servername, $username, $password,$db);
